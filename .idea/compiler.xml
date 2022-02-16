@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="com.testeUnitarios" />
+        <module name="Design-de-API-s-RestFul-com-Spring-Boot-TDD-e-o-novo-JUnit5" />
       </profile>
     </annotationProcessing>
   </component>
